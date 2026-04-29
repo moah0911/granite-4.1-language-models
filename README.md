@@ -266,7 +266,8 @@ The model cards for each model variant are available in their respective Hugging
 All Granite 4.1 Language Models are distributed under [Apache 2.0](./LICENSE) license.
 
 ## Disclosures
-Please find disclosures information [here](https://github.com/ibm-granite/granite-1.0-language-models/tree/main/disclosures).
+Please find disclosures information [here](https://github.com/ibm-granite/granite-4.1-language-models/tree/main/disclosures).
+
 
 ## Would you like to provide feedback?
 Please let us know your comments about our family of language models by visiting our [collection](https://huggingface.co/collections/ibm-granite/granite-41-language-models). Select the repository of the model you would like to provide feedback about. Then, go to *Community* tab, and click on *New discussion*. Alternatively, you can also post any questions/comments on our [github discussions page](https://github.com/orgs/ibm-granite/discussions).
